@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "InttoEnglishWord",
+            "request": "launch",
+            "mainClass": "InttoEnglishWord",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "IntToRoman",
+            "request": "launch",
+            "mainClass": "IntToRoman",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "RomanToInt",
+            "request": "launch",
+            "mainClass": "RomanToInt",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "CountCoveredBuildings",
+            "request": "launch",
+            "mainClass": "CountCoveredBuildings",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "RepeatStrMatch",
+            "request": "launch",
+            "mainClass": "RepeatStrMatch",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "NextGreaterEleII",
+            "request": "launch",
+            "mainClass": "NextGreaterEleII",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "DailyTemp",
+            "request": "launch",
+            "mainClass": "DailyTemp",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "FinalPriceWithDisShop",
+            "request": "launch",
+            "mainClass": "FinalPriceWithDisShop",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "ArrWithStackOpr",
+            "request": "launch",
+            "mainClass": "ArrWithStackOpr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "ExclusiveTimeFuns",
+            "request": "launch",
+            "mainClass": "ExclusiveTimeFuns",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "ReversePolishNotation",
+            "request": "launch",
+            "mainClass": "ReversePolishNotation",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "DisapperedNumsArray",
+            "request": "launch",
+            "mainClass": "DisapperedNumsArray",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "SmalllestElementsSelf",
+            "request": "launch",
+            "mainClass": "SmalllestElementsSelf",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "SetMisMatch",
+            "request": "launch",
+            "mainClass": "SetMisMatch",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "NextGreaterEle",
+            "request": "launch",
+            "mainClass": "NextGreaterEle",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "ConstructRepeartSubStr",
+            "request": "launch",
+            "mainClass": "ConstructRepeartSubStr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "DecodeWays",
+            "request": "launch",
+            "mainClass": "DecodeWays",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonSuffixQuery",
+            "request": "launch",
+            "mainClass": "LongestCommonSuffixQuery",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonPrefixII2",
+            "request": "launch",
+            "mainClass": "LongestCommonPrefixII2",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonPrefixII",
+            "request": "launch",
+            "mainClass": "LongestCommonPrefixII",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "LongestCommonPrefix",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "LongestUnCommonSubSeq",
+            "request": "launch",
+            "mainClass": "LongestUnCommonSubSeq",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "IsSubSequence",
+            "request": "launch",
+            "mainClass": "IsSubSequence",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "PlusOne",
+            "request": "launch",
+            "mainClass": "PlusOne",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "CompareVersionNum",
+            "request": "launch",
+            "mainClass": "CompareVersionNum",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "WildCardMatching",
+            "request": "launch",
+            "mainClass": "WildCardMatching",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "LongestIncSeq",
+            "request": "launch",
+            "mainClass": "LongestIncSeq",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "HappyNumber",
+            "request": "launch",
+            "mainClass": "HappyNumber",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicate",
+            "request": "launch",
+            "mainClass": "FindDuplicate",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "FirstMissingPositiveNum",
+            "request": "launch",
+            "mainClass": "FirstMissingPositiveNum",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "DecodeString",
+            "request": "launch",
+            "mainClass": "DecodeString",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubArrWithMaxMinDiff",
+            "request": "launch",
+            "mainClass": "LongestSubArrWithMaxMinDiff",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "MinimumWindowSubStr",
+            "request": "launch",
+            "mainClass": "MinimumWindowSubStr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "LongestCharacterSubStrLen",
+            "request": "launch",
+            "mainClass": "LongestCharacterSubStrLen",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "PermutationStr",
+            "request": "launch",
+            "mainClass": "PermutationStr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "NQueens",
+            "request": "launch",
+            "mainClass": "NQueens",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
