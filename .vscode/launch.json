@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AddArrayFormOfInt",
+            "request": "launch",
+            "mainClass": "AddArrayFormOfInt",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "AddBinary",
+            "request": "launch",
+            "mainClass": "AddBinary",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "ValidCoupanCode",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.ValidCoupanCode",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.ThreeSum",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicInSortedArr",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.RemoveDuplicInSortedArr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "NextPermutation",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.NextPermutation",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "TwoSumII",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.TwoSumII",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "SearchEleInRotateArr",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.SearchEleInRotateArr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "FindMinInRotateSortArr",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.FindMinInRotateSortArr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "RotatedSortedArr",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.RotatedSortedArr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSubArrayProd",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.MaximumSubArrayProd",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSubArray",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.MaximumSubArray",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "ProductExceptSelf",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.ProductExceptSelf",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "ContainDuplicate",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.ContainDuplicate",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "BestTimetoBuyAndSell",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.BestTimetoBuyAndSell",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.TwoSum",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
             "name": "InttoEnglishWord",
             "request": "launch",
             "mainClass": "InttoEnglishWord",
