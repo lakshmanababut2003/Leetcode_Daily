@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseStringII",
+            "request": "launch",
+            "mainClass": "ReverseStringII",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "Shift2DArr",
+            "request": "launch",
+            "mainClass": "Shift2DArr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "StringRotation",
+            "request": "launch",
+            "mainClass": "StringRotation",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "DistributeElementsinArr",
+            "request": "launch",
+            "mainClass": "DistributeElementsinArr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "VeganFriendlyHotel",
+            "request": "launch",
+            "mainClass": "VeganFriendlyHotel",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "ValidStackSequence",
+            "request": "launch",
+            "mainClass": "ValidStackSequence",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "SubArrProdLessK",
+            "request": "launch",
+            "mainClass": "SubArrProdLessK",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "GetDescentPeriod",
+            "request": "launch",
+            "mainClass": "GetDescentPeriod",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
             "name": "AddArrayFormOfInt",
             "request": "launch",
             "mainClass": "AddArrayFormOfInt",

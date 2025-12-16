@@ -4,7 +4,7 @@ public class ArrWithStackOpr {
 
     public static void main(String[] args) {
         
-        int[] arr = new int[] {1,2};
+        int[] arr = new int[] {1,3 };
         int n = 4;
 
         List<String> li = new ArrayList<>();
