@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LemonadeChange",
+            "request": "launch",
+            "mainClass": "LemonadeChange",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "MinCostClimbStairs",
+            "request": "launch",
+            "mainClass": "MinCostClimbStairs",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "MatrixDiognalSum",
+            "request": "launch",
+            "mainClass": "MatrixDiognalSum",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "RottenOranges",
+            "request": "launch",
+            "mainClass": "RottenOranges",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "DeleteOprtoMakeTwoStrEqul",
+            "request": "launch",
+            "mainClass": "DeleteOprtoMakeTwoStrEqul",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonSubSeq",
+            "request": "launch",
+            "mainClass": "LongestCommonSubSeq",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "IncreasingTripetSeq",
+            "request": "launch",
+            "mainClass": "IncreasingTripetSeq",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "BestTimetoBuyV",
+            "request": "launch",
+            "mainClass": "BestTimetoBuyV",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
             "name": "ReverseStringII",
             "request": "launch",
             "mainClass": "ReverseStringII",
