@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindFirstAndLastEleInArr",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.FindFirstAndLastEleInArr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicInSortedArrII",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.RemoveDuplicInSortedArrII",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "NextPerumutation",
+            "request": "launch",
+            "mainClass": "NextPerumutation",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "VerifyAlienDictionary",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.VerifyAlienDictionary",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "ContainerWithMostWater",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.ContainerWithMostWater",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "MergedSortedArr",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.MergedSortedArr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "ContainDuplicateII",
+            "request": "launch",
+            "mainClass": "LeetcodeArrays.ContainDuplicateII",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubStrKRepeatingChars",
+            "request": "launch",
+            "mainClass": "LongestSubStrKRepeatingChars",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
             "name": "LemonadeChange",
             "request": "launch",
             "mainClass": "LemonadeChange",

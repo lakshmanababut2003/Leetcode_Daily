@@ -6,7 +6,7 @@ public class NextPermutation {
 
     public static void main(String[] args) {
         
-        int[] arr = new int[] {3,2,1};
+        int[] arr = new int[] {1,1};
 
         NextPermutation obj = new NextPermutation();
 
@@ -19,7 +19,7 @@ public class NextPermutation {
 
         int i=len-2;
 
-        while(i>=0 && arr[i]>arr[i+1]){
+        while(i>=0 && arr[i]>=arr[i+1]){
             i--;
         }
 

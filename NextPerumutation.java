@@ -4,7 +4,7 @@ public class NextPerumutation{
 
     public static void main(String[] args){
 
-        int[] arr = new int[] {3,2,1};
+        int[] arr = new int[] {1,1};
 
         int n = arr.length;
 
