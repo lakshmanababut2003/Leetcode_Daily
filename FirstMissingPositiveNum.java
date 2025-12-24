@@ -7,36 +7,37 @@ public class FirstMissingPositiveNum {
     public static void main(String[] args) {
         
         int[] arr = new int[] {
-            -10,-9,1,2,3,4,7
+            -1,-2,0,0,1,1,3
         };
 
         sort(arr , 0 , arr.length-1);
 
          int startInd = 0;
 
-        if(arr[0] < 0){
-             for(int i=0;i<arr.length;i++){
+        for(int i=0;i<arr.length;i++){
 
-            if( arr[i] < 0 ){
+            if(arr[i] <= 0){
                 startInd++;
+                continue;
             }
-            else{
-                break;
-            }
+
+            break;
         }
-    }
 
         int target = 1;
 
         for(int i=startInd;i<arr.length;i++){
 
-            if(target == arr[i]){
-                target +=1;
+            if(arr[i] == target){
+
+                while(i+1 < arr.length && arr[i] == arr[i+1]){
+                    i++;
+                }
+                target+=1;
+                continue;
             }
-            else if(target < arr[i]){
-                // System.out.println(target);
-                break;
-            }
+
+            break;
         }
 
         System.out.println(target);

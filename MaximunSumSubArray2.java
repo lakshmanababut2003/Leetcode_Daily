@@ -2,10 +2,14 @@ public class MaximunSumSubArray2 {
 
     public static void main(String[] args) {
         
-        int[] arr = new int[] {-2,1,-3,4,-1,2,1,-5,4};
+        int[] arr = new int[] {-2,-4};
 
         int sum =0;
         int max = Integer.MIN_VALUE;
+
+        for(int ele : arr){
+            max = Math.max(max , ele);
+        }
 
         for(int i=0;i<arr.length;i++){
 

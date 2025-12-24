@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CircularSubArrMaxSum",
+            "request": "launch",
+            "mainClass": "CircularSubArrMaxSum",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "MaximunSubArrayProd",
+            "request": "launch",
+            "mainClass": "MaximunSubArrayProd",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "MaximunSumSubArray2",
+            "request": "launch",
+            "mainClass": "MaximunSumSubArray2",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "MinimumTheHeightII",
+            "request": "launch",
+            "mainClass": "MinimumTheHeightII",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "DetectPatternRepeatingKTimes",
+            "request": "launch",
+            "mainClass": "DetectPatternRepeatingKTimes",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
+            "name": "MaximumRepeatingSubStr",
+            "request": "launch",
+            "mainClass": "MaximumRepeatingSubStr",
+            "projectName": "problems_6776d8e7"
+        },
+        {
+            "type": "java",
             "name": "FindFirstAndLastEleInArr",
             "request": "launch",
             "mainClass": "LeetcodeArrays.FindFirstAndLastEleInArr",
